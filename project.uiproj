@@ -1,6 +1,6 @@
 {
-  "Name": "DataTables",
+  "Name": "DataTableActivitiesToolkit",
   "ProjectType": "Process",
-  "Description": "Blank Process",
+  "Description": "",
   "MainFile": "Main.xaml"
 }
